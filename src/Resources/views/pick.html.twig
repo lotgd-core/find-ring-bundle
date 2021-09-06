@@ -1,0 +1,9 @@
+{% trans_default_domain translation_domain %}
+
+{{ 'pickup.paragraph'|trans(_context)|colorize }}
+
+{% if chance %}
+    {{ 'pickup.chance.charm'|trans(_context)|colorize }}
+{% else %}
+    {{ 'pickup.chance.hitpoints'|trans(_context)|colorize }}
+{% endif %}
