@@ -1,6 +1,6 @@
 {
     "name": "lotgd-core/find-ring-bundle",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "type": "lotgd-bundle",
     "description": "Find Ring event for LoTGD IDMarinas Edition.",
     "license": "BSD-3-Clause",
@@ -10,6 +10,10 @@
             "email": "35842929+idmarinas@users.noreply.github.com",
             "homepage": "https://github.com/lotgd-core/find-ring-bundle",
             "role": "Developer, Maintainer"
+        },
+        {
+            "name": "Atrus",
+            "role": "Original Idea"
         }
     ],
     "support": {
