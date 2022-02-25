@@ -1,6 +1,5 @@
 {
     "name": "lotgd-core/find-ring-bundle",
-    "version": "0.1.1",
     "type": "lotgd-bundle",
     "description": "Find Ring event for LoTGD IDMarinas Edition.",
     "license": "BSD-3-Clause",
